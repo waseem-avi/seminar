@@ -1,1 +1,1 @@
-# seminar
+# seminar using git add
